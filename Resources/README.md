@@ -42,6 +42,7 @@ _Tools used for solving Web challenges_
 -  [W3af](https://github.com/andresriancho/w3af)  - Web Application Attack and Audit Framework.
 -  [XSSer](http://xsser.sourceforge.net/)  - Automated XSS testor.
 -  [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
+-  [php filter] - err=php://filter/convert.base64-encode/resource=index.php
 
 ### Crypto
 _Tools used for solving Crypto challenges_
