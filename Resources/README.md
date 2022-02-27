@@ -49,7 +49,8 @@ _Tools used for solving Web challenges_
 - [Tplmap](https://github.com/epinna/tplmap) - Tplmap assists the exploitation of Code Injection and Server-Side Template Injection vulnerabilities
 - [CSRF] - pip3 install xsrfprobe - automated probe to check for CSRF on a target
 - [JWT](https://jwt.io/) - Examine JWT keys
-- [JWT Bruteforce] - jwt-cracker <token> <alphabet> <length> (default 12)
+- [SSRF Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery#file) - SSRF Payloads
+- [JWT Bruteforce] - jwt-cracker <token> <alphabet> <length>
 
 ### Crypto
 _Tools used for solving Crypto challenges_
