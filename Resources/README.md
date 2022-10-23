@@ -135,7 +135,7 @@ _Tools used for solving Reversing challenges_
 -   [Java Decompilers](http://www.javadecompilers.com/)  - An online decompiler for Java and Android APKs.
 -   [Krakatau](https://github.com/Storyyeller/Krakatau)  - Java decompiler and disassembler.
 -   [Objection](https://github.com/sensepost/objection)  - Runtime Mobile Exploration.
--  [OllyDbg](http://www.ollydbg.de/) - Binary analysis framework
+-   [OllyDbg](http://www.ollydbg.de/) - Binary analysis framework
 -   [PEDA](https://github.com/longld/peda)  - GDB plugin (only python2.7).
 -   [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool)  - A dynamic binary instrumentaion tool by Intel.
 -   [PINCE](https://github.com/korcankaraokcu/PINCE)  - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
@@ -148,6 +148,7 @@ _Tools used for solving Reversing challenges_
 -   [WinDbg](http://www.windbg.org/)  - Windows debugger distributed by Microsoft.
 -   [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html)  - Program that can copy executables with execute, but no read permission.
 -   [Z3](https://github.com/Z3Prover/z3)  - A theorem prover from Microsoft Research.
+-   [decompyle3](https://github.com/rocky/python-decompile3)  - Decompiler translating python bytecode back into python source code.
 
 _JavaScript Deobfuscators_
 
