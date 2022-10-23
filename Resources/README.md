@@ -54,8 +54,9 @@ _Tools used for solving Web challenges_
 
 ### Crypto
 _Tools used for solving Crypto challenges_
--	[Cryptovenom](https://github.com/lockedbyte/cryptovenom) - All-around command line tool for encrypting/decrypting
+-   [Cryptovenom](https://github.com/lockedbyte/cryptovenom) - All-around command line tool for encrypting/decrypting
 -   [CyberChef](https://gchq.github.io/CyberChef)  - Web app for analysing and decoding data.
+-   [FactorDB](http://factordb.com)  - Factor RSA N into P and Q.
 -   [FeatherDuster](https://github.com/nccgroup/featherduster)  - An automated, modular cryptanalysis tool.
 -   [Hash Extender](https://github.com/iagox86/hash_extender)  - A utility tool for performing hash length extension attacks.
 -   [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)  - A CLI tool to execute padding oracle attacks.
@@ -63,9 +64,9 @@ _Tools used for solving Crypto challenges_
 -   [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)  - A tool for recovering RSA private key with various attack.
 -   [RSATool](https://github.com/ius/rsatool)  - Generate private key with knowledge of p and q.
 -   [XORTool](https://github.com/hellman/xortool)  - A tool to analyze multi-byte xor cipher.
--  [fastcoll](https://www.win.tue.nl/hashclash/) - An md5sum collision generator.
--  [hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) - Simple hash algorithm identifier.
--  [yafu](http://sourceforge.net/projects/yafu/) - Automated integer factorization.
+-   [fastcoll](https://www.win.tue.nl/hashclash/) - An md5sum collision generator.
+-   [hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) - Simple hash algorithm identifier.
+-   [yafu](http://sourceforge.net/projects/yafu/) - Automated integer factorization.
 
 ### Bruteforcers
 
